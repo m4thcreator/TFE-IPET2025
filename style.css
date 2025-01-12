@@ -37,6 +37,7 @@ h4 {
     color: #616161;
     line-height: 1.6;
     font-weight: 200;
+    text-align: justify;
 }
 .logo-header img {
     height: 50px;
@@ -159,6 +160,7 @@ section {
 }
 .team-text {
     margin: 10px;
+    text-align: justify;
 }
 footer {
     text-align: center;
